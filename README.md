@@ -32,7 +32,7 @@ The corpus download contains the following subdirectories:
             -	[non_english_text_files]: All TXT documents that were not originally in English and contained language in its original language provided by the starting source.
     -	[other]: Contains any relevant resources created by the research team that was not a document used within the Government Privacy Instructions Corpus.
 
-If you use the dataset for research, you should cite the following paper:
+If you use the dataset for research, you should cite the following [paper](https://arxiv.org/pdf/2206.14169.pdf):
 
 ```latex
 @article{gupta2022creation,
