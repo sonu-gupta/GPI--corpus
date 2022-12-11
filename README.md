@@ -8,7 +8,7 @@ The landscape of privacy laws and regulations around the world is complex and ev
 
 ## Government Privacy Instructions (GPI) Corpus 
 
-The corpus metadata is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic license (CC BY-NC-SA 2.0). Inquiries about commercial licensing should be directed to Shomir Wilson (shomir@psu.edu).
+The corpus metadata is made available under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic license (CC BY-NC-SA 2.0).
 
 The corpus can be directly downloaded from https://usableprivacy.org/static/data/gpi_corpus_v1.0_2022-06-20.zip
 
